@@ -1,8 +1,7 @@
 # "UnlockProgLang" Mobile Application
-
-Version: 1.0
-Release Date: August 7, 2023
-
+Version: 1.0 | Release Date: August 7, 2023
+# Demo 
+https://github.com/Marwan951/Learning-Programming/assets/95751506/d0418be1-56b9-44e3-b720-80d1bb3c4ad4
 # Overview
 "UnlockProgLang" is an innovative mobile application developed by a my team from Ain Shams University during the summer training program. This intuitive Android app aims to provide users with an interactive and convenient platform for learning various programming languages while on the go. By offering engaging content, including comprehensive books and quizzes for different programming languages, the app seeks to make programming education accessible and enjoyable.
 
